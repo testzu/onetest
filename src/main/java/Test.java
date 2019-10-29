@@ -7,5 +7,6 @@ public class Test {
         System.out.println(i.length);
         for (int p = i.length-1;p>=0;p--)
         System.out.print(i[p]+" ");
+        System.out.println("ssk");
     }
 }
